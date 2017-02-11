@@ -1,0 +1,10 @@
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\bin\Debug\SlotMachineVB.exe.config
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\bin\Debug\SlotMachineVB.exe
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\bin\Debug\SlotMachineVB.pdb
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\bin\Debug\SlotMachineVB.xml
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\obj\Debug\SlotMachineVB.Form1.resources
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\obj\Debug\SlotMachineVB.Resources.resources
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\obj\Debug\SlotMachineVB.vbproj.GenerateResource.Cache
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\obj\Debug\SlotMachineVB.exe
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\obj\Debug\SlotMachineVB.xml
+C:\Users\Jeff\Desktop\Portfolio\SlotMachineVB\SlotMachineVB\obj\Debug\SlotMachineVB.pdb
